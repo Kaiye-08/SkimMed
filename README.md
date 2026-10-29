@@ -24,7 +24,7 @@ It extracts structured information from uploaded medical PDFs, splits them into 
 
 ### 1️) Clone the repo
 ```bash
-git clone https://github.com/your-username/SkimMed.git
+git clone https://github.com/Kaiye-08/SkimMed.git
 cd SkimMed
 ```
 
